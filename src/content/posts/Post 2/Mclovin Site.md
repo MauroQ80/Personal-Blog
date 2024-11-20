@@ -7,13 +7,13 @@ tags: ["Web Design"]
 category: Mclovin Site
 draft: false
 ---
+# History
+
 <h3>
 <a ### href="https://mclovin.site" target="_blank" style="color: white; font-weight: bold; text-decoration: none;">
         McLovin Site
     </a>
 </h3>
-
- # History
 
 <p>This page was born during a late-night Discord session with my friend Fabs. He was browsing for a domain for his website, and after a while, he stumbled upon the domain mclovin.site for just $2. We decided to split the cost, and he bought it on the spot. That’s when he suggested we create a site as a tribute to the legend of fake IDs and pure confidence.</p>
 
