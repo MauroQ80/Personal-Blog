@@ -19,6 +19,23 @@ The book is not just a look back at what once was; it is a call to action for th
 
 By reflecting on these stories, I hope readers will feel encouraged to examine their own actions and the ripple effects they can create in their communities. After all, even the smallest gestures—an act of kindness, a moment of honesty, a decision to help someone in need—can spark profound change. This book reminds us that while the world may evolve, the principles that unite us as humans remain timeless, waiting to be rediscovered and lived anew.
 
+# Comments
+### "Thank you for reading! 😊 Feel free to leave a comment 💬 and share your reaction 👍—your thoughts are always welcome!"
+<script id="giscus-script" src="https://giscus.app/client.js"
+        data-repo="MauroQ80/Personal-Blog"
+        data-repo-id="R_kgDONPH48A"
+        data-category="General"
+        data-category-id="DIC_kwDONPH48M4CkdQw"
+        data-mapping="url"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="dark_protanopia" 
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
 
 
 

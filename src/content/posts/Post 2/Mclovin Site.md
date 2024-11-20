@@ -25,5 +25,26 @@ draft: false
     <p><a href="https://github.com/FabsCR/mclovin" target="_blank" style="color: white; text-decoration: none; font-weight: bold;">Pls rate us on GitHub</a></p>
 </footer>
 
+# Comments
+### "Thank you for reading! 😊 Feel free to leave a comment 💬 and share your reaction 👍—your thoughts are always welcome!"
+
+<script id="giscus-script" src="https://giscus.app/client.js"
+        data-repo="MauroQ80/Personal-Blog"
+        data-repo-id="R_kgDONPH48A"
+        data-category="General"
+        data-category-id="DIC_kwDONPH48M4CkdQw"
+        data-mapping="url"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="dark_protanopia" 
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+
 
 
