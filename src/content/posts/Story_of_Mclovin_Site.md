@@ -1,8 +1,8 @@
 ---
-title: History of mclovin.site
+title: 🤓 History of mclovin.site
 published: 2024-11-14
 description: "The legend of fake IDs and pure confidence: McLovin!"
-image: "./Mclovin Site.jpeg"
+image: "/favicon/Mclovin Site.jpeg"
 tags: ["Web Design"]
 category: Mclovin Site
 draft: false

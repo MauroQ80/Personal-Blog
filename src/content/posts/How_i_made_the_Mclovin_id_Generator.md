@@ -1,5 +1,5 @@
 ---
-title: How i made the Mclovin Style Id Generator
+title: 🤓 How i made the Mclovin Style Id Generator
 published: 2024-11-18
 description: "If you're going to impersonate a 25-year-old organ donor from Hawaii, you better do it right. Let’s dive in and see how it all came together!"
 tags: [Web Design]
@@ -197,7 +197,7 @@ if __name__ == '__main__':
 * Starts the Flask app in debug mode, enabling error messages and hot-reloading during development.
 
 
-# Comments
+# 💬 Comments 
 ### "Thank you for reading! 😊 Feel free to leave a comment 💬 and share your reaction 👍—your thoughts are always welcome!"
 
 <script id="giscus-script" src="https://giscus.app/client.js"
