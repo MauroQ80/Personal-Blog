@@ -1,10 +1,10 @@
 ---
-title: 🤓 History of mclovin.site
+title: History of mclovin.site
 published: 2024-11-14
 description: "The legend of fake IDs and pure confidence: McLovin!"
 image: "/favicon/Mclovin Site.jpeg"
 tags: ["Web Design"]
-category: Mclovin Site
+category: 🤓 Mclovin Site
 draft: false
 ---
 <h3>
@@ -13,7 +13,7 @@ draft: false
     </a>
 </h3>
 
- # History
+ # 🧙‍♂️ History
 
 <p>This page was born during a late-night Discord session with my friend Fabs. He was browsing for a domain for his website, and after a while, he stumbled upon the domain mclovin.site for just $2. We decided to split the cost, and he bought it on the spot. That’s when he suggested we create a site as a tribute to the legend of fake IDs and pure confidence.</p>
 
@@ -25,7 +25,7 @@ draft: false
     <p><a href="https://github.com/FabsCR/mclovin" target="_blank" style="color: white; text-decoration: none; font-weight: bold;">Pls rate us on GitHub</a></p>
 </footer>
 
-# Comments
+# 💬 Comments
 ### "Thank you for reading! 😊 Feel free to leave a comment 💬 and share your reaction 👍—your thoughts are always welcome!"
 
 <script id="giscus-script" src="https://giscus.app/client.js"

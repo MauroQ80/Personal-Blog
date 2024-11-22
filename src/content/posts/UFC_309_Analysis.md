@@ -1,9 +1,9 @@
 ---
-title: 🥊 UFC 309 A Night of Unforgettable Action
+title: UFC 309 A Night of Unforgettable Action
 published: 2024-11-20
 description: "The electrifying night where legends clashed, and rising stars shone bright!"
 tags: [UFC]
-category: UFC Analysis
+category: 🥊 UFC Analysis
 draft: false
 ---
 

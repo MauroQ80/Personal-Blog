@@ -1,23 +1,23 @@
 ---
-title: 🤓 How i made the Mclovin Style Id Generator
+title: How i made the Mclovin Style Id Generator
 published: 2024-11-18
 description: "If you're going to impersonate a 25-year-old organ donor from Hawaii, you better do it right. Let’s dive in and see how it all came together!"
 tags: [Web Design]
-category: Mclovin Site
+category: 🤓 Mclovin Site
 draft: false
 ---
 
-# Purpose of the code
+# ⚙️ Purpose of the code
  McLovin: The Only Name You’ll Ever Need
 
  Basically, it turns your dreams into reality... well, if your dream was to have an ID like McLovin’s, but with your own face. This code lets you upload your photo, making your ID truly one of a kind. Forget boring generic IDs—this is your moment to shine! Feel free to use it, improve it, or completely reinvent it. After all, if a 25-year-old Hawaiian organ donor can do it, so can you. Just hope you don’t get hit like McLovin did when you use it.
 
 But hey, on the bright side, here’s to hoping you end up like the legend himself—getting laid and living the dream.
 
-## "Officially Unofficial" ID
+## ✨ "Officially Unofficial" ID
 <img src="/favicon/mclovin_card.png" width="3100" height="2100" alt="Tarjeta de McLovin">
 
-# Code explanation
+# ⚙️ Code explanation
 
 This is the code that makes the ID generator come to life. In simple terms, it allows you to upload an image, resizes it, and places it perfectly in the photo spot on the ID. It's like magic—but with code!
 

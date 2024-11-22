@@ -1,9 +1,9 @@
 ---
-title: 🤓 McLovin Card Generator is Here!
+title: McLovin Card Generator is Here!
 published: 2024-11-21
 description: "Get your own McLovin-style ID card now, completely free! Are you ready to become a legend?"
 tags: [Web Design]
-category: Mclovin Site
+category: 🤓 Mclovin Site
 draft: false
 ---
 # Who Needs an Ordinary ID When You Can Be McLovin? 🍍
