@@ -51,7 +51,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/Foto de Perfil.jpeg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'assets/images/Foto_de_Perfil.jpeg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Mauro Quesada',
   bio: 'Electrical Engineer in process Writer, MMA and CS2 lover',
   links: [
@@ -59,7 +59,7 @@ export const profileConfig: ProfileConfig = {
       name: 'Twitter',
       icon: 'fa6-brands:twitter',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
-                                        // `pnpm add @iconify-json/<icon-set-name>`
+                                        // pnpm add @iconify-json/<icon-set-name>
       url: 'https://x.com/Mauroq_',
     },
     {
